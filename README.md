@@ -26,3 +26,16 @@ Clone the repository:
 
 ```bash
 git clone <your-repository-link>
+## Screenshots
+
+### Login Screen
+![Login](screenshots/login.png)
+
+### Password Vault
+![Vault](screenshots/vault.png)
+
+### Add Password
+![Add Password](screenshots/add_password.png)
+
+### View Passwords
+![View Password](screenshots/view_password.png)
