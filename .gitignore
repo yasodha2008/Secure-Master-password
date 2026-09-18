@@ -5,3 +5,4 @@ secret.key
 passwords.json
 .vscode/
 master.hash
+.venv.code-workspace
